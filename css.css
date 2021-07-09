@@ -1,0 +1,30 @@
+body:{font-family: 'Roboto', sans-serif;
+margin:0;}
+.s{color: brown;}
+section{display: flex;
+margin-bottom: 3%;
+}
+.first{width: 50%;
+padding-left: 5%;
+padding-top: 5%;}
+.first img{width: 70%;}
+.link{color: red;
+text-decoration: none;
+background-color: yellow;
+padding:10px 5px ;
+border-radius: 10px;
+background-image: linear-gradient();
+}
+.frame{background-image: url(images/shapes/Frame\ 59.jpg);
+background-repeat: no-repeat}
+.person{width: 40%;}
+.about{background-image: url(images/shapes/Frame\ 58.jpg);
+background-repeat: no-repeat;
+background-position: right;}
+.item{
+    text-align: center;
+background-color: gainsboro}
+.r{width:200px;}
+.salad{border-radius: 20px;}
+.final{color: white;background-color: black;
+text-align: center;}
